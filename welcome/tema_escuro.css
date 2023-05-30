@@ -1,0 +1,25 @@
+:root{
+  /* tema escuro */
+--bgPrincipal: rgba(28, 27, 27, 0.8);
+--bgSecundario: rgba(0, 0, 0, 0.25) ;
+
+--bgBotao: #CF4B83;
+--fontColorBotao: #FFFFFF; 
+
+--bgInput: rgba(82, 82, 82, 0.7);
+
+--iconColor: #FFFFFF;
+--fontColorInput: #a3a3a3;
+
+--fontColor: #FFFFFF;
+--fontColorTitle:#01B574 ;
+--fontColorLink: #01B574;
+
+--fontColorBanner: #FFFFFF ;
+--bgBanner: rgba(193, 255, 233, 0.7);
+
+--seletorTemaFundo: #FFFFFF;
+--seletorTemaIcone: #000000;
+--seletorTemaIconeSelecionado: #FFFFFF;
+--seletorTemaBtnSelecionado: #CF4B83;
+}
